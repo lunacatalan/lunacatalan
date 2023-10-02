@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyo, my name is Luna Herschenfeld-Catalan 👋
 
 <!--
 **lunacatalan/lunacatalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
